@@ -1,0 +1,13 @@
+{
+  "name": "plume",
+  "version": "1.0.0",
+  "description": "say it on your iPhone. Claude on your Mac picks it up. Read the ideas you captured with plume, add new ones, and mark one done the moment you hand it over.",
+  "author": {
+    "name": "Roberto Ercole",
+    "email": "robertoerc@gmail.com"
+  },
+  "homepage": "https://plume-ideas.vercel.app/claude",
+  "repository": "https://github.com/robertoerc/plume-claude",
+  "license": "MIT",
+  "keywords": ["plume", "ideas", "iphone", "mcp"]
+}

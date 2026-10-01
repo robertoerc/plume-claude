@@ -1,0 +1,15 @@
+{
+  "name": "plume-claude",
+  "description": "plume for Claude Code: the ideas you capture on your iPhone with plume, in Claude on your Mac.",
+  "owner": {
+    "name": "Roberto Ercole",
+    "email": "robertoerc@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "plume",
+      "source": "./plugins/plume",
+      "description": "say it on your iPhone. Claude on your Mac picks it up."
+    }
+  ]
+}

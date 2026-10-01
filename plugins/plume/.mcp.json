@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "plume": {
+      "command": "${CLAUDE_PLUGIN_ROOT}/bin/plume-mcp",
+      "env": {
+        "PLUME_SURFACE": "code"
+      }
+    }
+  }
+}
